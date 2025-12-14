@@ -1,1 +1,0 @@
-Mashup weather API data with stock market data to visualize correlations.
